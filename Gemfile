@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'ruby-saml', '~> 1.7.0'
+#gem 'ruby-saml', '~> 1.7.0'
+gem 'ruby-saml', '1.10.0'
 
 gem 'byebug'
 
